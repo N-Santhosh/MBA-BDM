@@ -91,6 +91,6 @@
 
 ## ER DIAGRAM:
 
-![BDM-Cia-2 drawio](https://user-images.githubusercontent.com/78794083/234301889-7802e3de-0c07-4156-bfd0-b238a47bd242.png)
 
+![BDM-Cia-2 drawio (1)](https://user-images.githubusercontent.com/78794083/234303351-06c763f6-fab3-424b-b710-af70bde11e31.png)
 
