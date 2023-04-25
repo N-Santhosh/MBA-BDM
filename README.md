@@ -13,17 +13,7 @@
 
 
 ## ENTITIES:
-1.	Student
-2.	Faculty
-3.	Course
-4.	Department
-5.	Classroom
-6.	Staff
-7.	Alumni
-8.	Library
-9.	Fees
-10.	Attendance
-11.	College
+
 
 
 ## ATTRIBUTES:
