@@ -1,4 +1,13 @@
-Entities:
+#EDUCATION INSTITUTE
+    Santhosh-22121024
+    Siddharth-2212127
+    
+##INTRODUCTION
+  
+
+
+
+##ENTITIES:
 1.	Student
 2.	Faculty
 3.	Course
@@ -12,16 +21,73 @@ Entities:
 11.	College
 
 
-Attributes:
-1.	Student: StudentID, Name, Date of Birth, Email, Phone Number, Address, Gender, Nationality, Admission Date, Degree Program, CollegeID
-2.	Faculty: FacultyID, Name, Date of Birth, Email, Phone Number, Address, Gender, Nationality, Department, CollegeID
-3.	Course: CourseID, Name, Credits, Department, Prerequisites, Faculty, CollegeID
-4.	Department: DepartmentID, Name, HOD, Location, CollegeID
-5.	Classroom: RoomID, Capacity, Type, Location, CollegeID
-6.	Staff: StaffID, Name, Date of Birth, Email, Phone Number, Address, Gender, Nationality, Department, Designation, CollegeID
-7.	Alumni: AlumniID, Name, Date of Birth, Email, Phone Number, Address, Gender, Nationality, Graduation Year, Degree Program, CollegeID
-8.	Library: BookID, Title, Author, Publisher, Publication Year, Availability, CollegeID
-9.	Fees: FeeID, StudentID, Fee Type, Amount, Date, CollegeID
-10.	Attendance: AttendanceID, StudentID, CourseID, Date, Status, CollegeID
-11.	College: CollegeID, Name, Address, Phone Number, Email, Website
+##ATTRIBUTES:
+13.	Student ID: Unique identifier for each student
+14.	Student Name: Name of the student
+15.	Student Email: Email address of the student
+16.	Student Phone: Phone number of the student
+17.	Student Address: Address of the student
+18.	Student Date of Birth: Date of birth of the student
+19.	Student Gender: Gender of the student
+20.	Student Nationality: Nationality of the student
+21.	Student Course ID: Course ID of the student
+22.	Student Department ID: Department ID of the student
+
+23.	Faculty ID: Unique identifier for each faculty member
+24.	Faculty Name: Name of the faculty member
+25.	Faculty Email: Email address of the faculty member
+26.	Faculty Phone: Phone number of the faculty member
+27.	Faculty Address: Address of the faculty member
+28.	Faculty Department ID: Department ID of the faculty member
+
+29.	Course ID: Unique identifier for each course
+30.	Course Name: Name of the course
+31.	Course Description: Description of the course
+32.	Course Duration: Duration of the course in months
+33.	Course Department ID: Department ID of the course
+
+34.	Department ID: Unique identifier for each department
+35.	Department Name: Name of the department
+36.	Department Head ID: ID of the head of the department
+
+37.	Classroom ID: Unique identifier for each classroom
+38.	Classroom Name: Name of the classroom
+39.	Classroom Capacity: Capacity of the classroom
+40.	Classroom Location: Location of the classroom
+
+41.	Staff ID: Unique identifier for each staff member
+42.	Staff Name: Name of the staff member
+43.	Staff Email: Email address of the staff member
+44.	Staff Phone: Phone number of the staff member
+45.	Staff Address: Address of the staff member
+46.	Staff Department ID: Department ID of the staff member
+
+47.	Alumni ID: Unique identifier for each alumni
+48.	Alumni Name: Name of the alumni
+49.	Alumni Email: Email address of the alumni
+50.	Alumni Phone: Phone number of the alumni
+51.	Alumni Address: Address of the alumni
+52.	Alumni Course ID: Course ID of the alumni
+53.	Alumni Department ID: Department ID of the alumni
+
+54.	Library ID: Unique identifier for each library
+55.	Library Name: Name of the library
+56.	Library Location: Location of the library
+
+57.	Fees ID: Unique identifier for each fee payment
+58.	Fees Student ID: Student ID of the fee payment
+59.	Fees Amount: Amount of the fee payment
+60.	Fees Date: Date of the fee payment
+
+61.	Attendance ID: Unique identifier for each attendance record
+62.	Attendance Student ID: Student ID of the attendance record
+63.	Attendance Course ID: Course ID of the attendance record
+64.	Attendance Date: Date of the attendance record
+
+65.	College ID: Unique identifier for the college
+66.	College Name: Name of the college
+67.	College Address: Address of the
+
+
+
 
