@@ -4,9 +4,11 @@
 
 # EDUCATION INSTITUTE
 
+
     
 ## INTRODUCTION
-  
+  This a education institution represents the stakeholders of a college system, including students, faculty, courses, departments, classrooms, staff, alumni, library, fees, and attendance. The college system works together to provide high-quality education to students and prepare them for successful careers.
+                                                      Students enroll in courses offered by faculty members, and the courses are organized into departments. Classrooms are managed by staff, and the college has a library containing relevant materials. Fees are collected to cover expenses, and attendance is tracked. Alumni are former students who have graduated from the institution. The college system works together to provide high-quality education to students and prepare them for successful careers.
 
 
 
