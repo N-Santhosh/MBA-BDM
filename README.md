@@ -1,6 +1,9 @@
-# EDUCATION INSTITUTE
+## MBA-BA
     Santhosh-22121024
     Siddharth-2212127
+
+# EDUCATION INSTITUTE
+
     
 ## INTRODUCTION
   
@@ -86,11 +89,19 @@
 
 65.	College ID: Unique identifier for the college
 66.	College Name: Name of the college
-67.	College Address: Address of the
+67.	College Address: Address of the college
+68.	College Website: Website of the college
 
 
 ## ER DIAGRAM:
 
 
-![BDM-Cia-2 drawio (1)](https://user-images.githubusercontent.com/78794083/234303351-06c763f6-fab3-424b-b710-af70bde11e31.png)
+![BDM-Cia-2 drawio (2)](https://user-images.githubusercontent.com/78794083/234304936-50d758fe-9e82-4190-8074-a033fc87057e.png)
 
+## CONVERTING ER DIAGRAMS INTO TABL:
+
+|Student_ID| Name          | DOB           | Age          |Medical History | Phone_No |
+|----------| ------------- |:-------------:| -------------|---------------:|----------|
+|101       | Siddharth     | 08-12-1999    | 24           |No              | 673567335| 
+|102       | Kajal         | 13-01-2001    | 21           |Yes             | 535457535|
+|103       | Dabang        | 22-01-1992    | 30           |Yes             | 677557535|
