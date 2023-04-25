@@ -104,50 +104,6 @@
 
 
 
-## CONVERTING ER DIAGRAMS INTO TABL:
-
-|Student_ID| Name          | DOB           | phone no     |Address         | DOB      |Gender    | nationality  |Course Id    | deparment id   |
-|----------| ------------- |:-------------:| -------------|---------------:|----------|----------|--------------|-------------|----------------|
-|          |               |               |              |                |          |          |              |             |                |
-|          |               |               |              |                |          |          |              |             |                |
-|          |               |               |              |                |          |          |              |             |                |
-|          |               |               |              |                |          |          |              |             |                |
-|          |               |               |              |                |          |          |              |             |                |
-|          |               |               |              |                |          |          |              |             |                |
-## FACULTY ID
-
-|Faculty_ID|faculty Name   |faculty email id| phone no     |Address         | deparment id   |
-|----------| ------------- |:-------------: | -------------|---------------:|----------------|
-|          |               |                |              |                |                | 
-|          |               |                |              |                |                |
-|          |               |                |              |                |                |
-|          |               |                |              |                |                |
-|          |               |                |              |                |                |
-|          |               |                |              |                |                |
-
-
-## Course details
-
-
-|Course_ID |course Name    |description    | duration     | deparment id   |
-|----------| ------------- |:-------------: | -------------|---------------:|
-|          |               |                |              |                |                
-|          |               |                |              |                |                
-|          |               |                |              |                |                
-|          |               |                |              |                |                
-|          |               |                |              |                |                
-|          |               |                |              |                |                
-
-## department details
-
-|deparment id| department name| department Head id|
-|----------  | ------------- |:-------------:     |
-|            |               |                    |                            
-|            |               |                    |                          
-|            |               |                    |                            
-|            |               |                    |                              
-|            |               |                    |                              
-|            |               |                    |    
 
 
 ## classroom details
