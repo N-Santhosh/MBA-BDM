@@ -1,13 +1,13 @@
-#EDUCATION INSTITUTE
+# EDUCATION INSTITUTE
     Santhosh-22121024
     Siddharth-2212127
     
-##INTRODUCTION
+## INTRODUCTION
   
 
 
 
-##ENTITIES:
+## ENTITIES:
 1.	Student
 2.	Faculty
 3.	Course
@@ -21,7 +21,7 @@
 11.	College
 
 
-##ATTRIBUTES:
+## ATTRIBUTES:
 13.	Student ID: Unique identifier for each student
 14.	Student Name: Name of the student
 15.	Student Email: Email address of the student
