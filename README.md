@@ -103,6 +103,50 @@
 ![BDM-Cia-2 drawio (3)](https://user-images.githubusercontent.com/78794083/234350687-a5b23caa-7b71-4f39-a4ed-eb895ed7ebad.png)
 
 
+## CONVERTING ER DIAGRAMS INTO TABL:
+
+|Student_ID| Name          | DOB           | phone no     |Address         | DOB      |Gender    | nationality  |Course Id    | deparment id   |
+|----------| ------------- |:-------------:| -------------|---------------:|----------|----------|--------------|-------------|----------------|
+|          |               |               |              |                |          |          |              |             |                |
+|          |               |               |              |                |          |          |              |             |                |
+|          |               |               |              |                |          |          |              |             |                |
+|          |               |               |              |                |          |          |              |             |                |
+|          |               |               |              |                |          |          |              |             |                |
+|          |               |               |              |                |          |          |              |             |                |
+## FACULTY ID
+
+|Faculty_ID|faculty Name   |faculty email id| phone no     |Address         | deparment id   |
+|----------| ------------- |:-------------: | -------------|---------------:|----------------|
+|          |               |                |              |                |                | 
+|          |               |                |              |                |                |
+|          |               |                |              |                |                |
+|          |               |                |              |                |                |
+|          |               |                |              |                |                |
+|          |               |                |              |                |                |
+
+
+## Course details
+
+
+|Course_ID |course Name    |description    | duration     | deparment id   |
+|----------| ------------- |:-------------: | -------------|---------------:|
+|          |               |                |              |                |                
+|          |               |                |              |                |                
+|          |               |                |              |                |                
+|          |               |                |              |                |                
+|          |               |                |              |                |                
+|          |               |                |              |                |                
+
+## department details
+
+|deparment id| department name| department Head id|
+|----------  | ------------- |:-------------:     |
+|            |               |                    |                            
+|            |               |                    |                          
+|            |               |                    |                            
+|            |               |                    |                              
+|            |               |                    |                              
+|            |               |                    |    
 
 
 
