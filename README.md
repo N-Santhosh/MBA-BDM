@@ -219,6 +219,17 @@
 |             |               |                   |                   |
 |             |               |                   |                   |
 
+## Alumini
+
+|Alumni ID | Alumini Name  | Alumni Email  | Alumini phone|Alumini Address | Alumini Course ID | Alumini Deparment id   |
+|----------| ------------- |:-------------:| -------------|---------------:|-------------------|------------------------|
+|          |               |               |              |                |                   |                        |
+|          |               |               |              |                |                   |                        |
+|          |               |               |              |                |                   |                        |
+|          |               |               |              |                |                   |                        |
+|          |               |               |              |                |                   |                        |
+|          |               |               |              |                |                   |                        |
+
 
 
 
