@@ -89,5 +89,8 @@
 67.	College Address: Address of the
 
 
+## ER DIAGRAM:
+
+![BDM-Cia-2 drawio](https://user-images.githubusercontent.com/78794083/234301889-7802e3de-0c07-4156-bfd0-b238a47bd242.png)
 
 
