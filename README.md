@@ -129,7 +129,7 @@
 ## Course details
 
 
-|Course_ID |course Name    |descripation    | duration     | deparment id   |
+|Course_ID |course Name    |description    | duration     | deparment id   |
 |----------| ------------- |:-------------: | -------------|---------------:|
 |          |               |                |              |                |                
 |          |               |                |              |                |                
@@ -138,7 +138,7 @@
 |          |               |                |              |                |                
 |          |               |                |              |                |                
 
-
+## department details
 
 |deparment id| department name| department Head id|
 |----------  | ------------- |:-------------:     |
@@ -150,7 +150,7 @@
 |            |               |                    |    
 
 
-
+## classroom details
 
 |Classroom_ID |classroom Name |classroom capacity |classroom location |
 |-------------|---------------|-------------------|-------------------|
@@ -162,7 +162,7 @@
 |             |               |                   |                   |  
 
 
-
+## staff details
 
 |staff _ID |staff  Name    |staff email     |staff phone   | staff address  | staff department |
 |----------| ------------- |:-------------: | -------------|---------------:|------------------|
@@ -173,7 +173,7 @@
 |          |               |                |              |                |                  |
 |          |               |                |              |                |                  |
 
-
+## library details
 
 |Libarary id | Library name  | libarary location  |
 |----------  | ------------- |:------------------ |
@@ -185,6 +185,8 @@
 |            |               |                    |  
 
 
+## fees details
+
 |fees_ID      |fees student id|   fees amount     |     fees date     |
 |-------------|---------------|-------------------|-------------------|
 |             |               |                   |                   |  
@@ -195,6 +197,8 @@
 |             |               |                   |                   |
 
 
+## attendence details
+
 |Attendence_ID |Attendence student id|Attendence course id |Attendence date    |
 |-------------|----------------------|---------------------|-------------------|
 |             |                      |                     |                   |  
@@ -204,7 +208,7 @@
 |             |                      |                     |                   |
 |             |                      |                     |                   |
 
-
+## college details
 
 |College _ID  |College Name   |College address    |College website    |
 |-------------|---------------|-------------------|-------------------|
