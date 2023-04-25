@@ -100,7 +100,9 @@
 ## ER DIAGRAM:
 
 
-![BDM-Cia-2 drawio (2)](https://user-images.githubusercontent.com/78794083/234304936-50d758fe-9e82-4190-8074-a033fc87057e.png)
+![BDM-Cia-2 drawio (3)](https://user-images.githubusercontent.com/78794083/234350687-a5b23caa-7b71-4f39-a4ed-eb895ed7ebad.png)
+
+
 
 ## CONVERTING ER DIAGRAMS INTO TABL:
 
