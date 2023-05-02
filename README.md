@@ -85,15 +85,11 @@
 59.	Fees Amount: Amount of the fee payment
 60.	Fees Date: Date of the fee payment
 
-61.	Attendance ID: Unique identifier for each attendance record
-62.	Attendance Student ID: Student ID of the attendance record
-63.	Attendance Course ID: Course ID of the attendance record
-64.	Attendance Date: Date of the attendance record
 
-65.	College ID: Unique identifier for the college
-66.	College Name: Name of the college
-67.	College Address: Address of the college
-68.	College Website: Website of the college
+61.	College ID: Unique identifier for the college
+62.	College Name: Name of the college
+63.	College Address: Address of the college
+64.	College Website: Website of the college
 
 
 
@@ -199,17 +195,6 @@
 |             |               |                   |                   |
 |             |               |                   |                   |
 
-
-## attendence details
-
-|Attendence_ID |Attendence student id|Attendence course id |Attendence date    |
-|-------------|----------------------|---------------------|-------------------|
-|             |                      |                     |                   |  
-|             |                      |                     |                   |
-|             |                      |                     |                   | 
-|             |                      |                     |                   | 
-|             |                      |                     |                   |
-|             |                      |                     |                   |
 
 ## college details
 
