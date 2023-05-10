@@ -7,7 +7,7 @@
 ## INTRODUCTION
 This code is a SQL script that creates several database tables to represent a university system. The tables created include Faculty, FacultyAddress, Department, Course, Student, Student_Address, Staff, StaffAddress, Phonenumber, Email, and Fees. These tables are designed to store information about various entities in the university, such as faculty, staff, students, courses, and their contact information. The script also defines relationships between the tables using foreign keys to enforce referential integrity. The purpose of this code is to provide a framework for storing and managing data related to the university system in a structured and organized manner.
 
-##PROBLEM STATEMENTS
+## PROBLEM STATEMENTS
 
 **1) Retrieve the total number of students enrolled in each course.**
 
