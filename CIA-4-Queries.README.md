@@ -22,7 +22,7 @@ GROUP BY CourseName;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/81821fc5-55ec-497c-97de-8b4cd013306f)
 
-
+----------------------------------------
 
 **2) The institute wants to analyze the geographic distribution of its students and identify the cities from which the highest number of students come from. Write a query to retrieve the list of cities along with the count of students from each city.**
 
