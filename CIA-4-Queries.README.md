@@ -36,7 +36,7 @@ GROUP BY city;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/2636c56e-77d5-483f-a851-a91a35ab4b71)
 
-
+----------------------------------------
 
 **3)Retrieve the list of staff members and the number of students they have mentored.**
 
@@ -53,7 +53,7 @@ GROUP BY Staff.StaffName;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/69fe3d78-dc27-42f4-aa90-26c0ceab0071)
 
-
+----------------------------------------
 
 **4)Retrieve the CourseName, CourseDuration and the number of students enrolled.**
 
@@ -68,7 +68,7 @@ GROUP BY CourseName, CourseDuration;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/0a67e69d-b931-4b18-a68e-b365044fd7cf)
 
-
+----------------------------------------
 
 **5)Show the number of students from each department by gender.**
 
@@ -83,7 +83,7 @@ FROM Department;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/05f99759-faba-490e-b97c-3e6efa3b4e65)
 
-
+----------------------------------------
 
 **6)Show the number of courses offered by each department:**
 
@@ -98,7 +98,7 @@ GROUP BY DepartmentName;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/ff02a80d-e95c-4a91-8df6-5d893266a233)
 
-
+----------------------------------------
 
 **7)Retrive the list of number of alumni by department**
 
@@ -113,7 +113,7 @@ GROUP BY DepartmentName;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/f580be26-045c-4a79-939a-90223272bde3)
 
-
+----------------------------------------
 
 **8)Show the Total fees earned by each department.**
 
@@ -129,7 +129,7 @@ GROUP BY d.DepartmentName;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/1381d48a-e841-4e99-ad2c-60f95b75b05e)
 
-
+----------------------------------------
 
 **9)Retrieve the count of students born in each year for generating a graph showing the distribution of students' birth year.**
 
@@ -144,7 +144,7 @@ ORDER BY YEAR;
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/be62d4cc-f2ef-439e-bc94-201968313ac6)
 
-
+----------------------------------------
 
 **10)To retrieve the classroom names and their respective capacities**
 
@@ -156,7 +156,7 @@ SELECT ClassroomName, ClassroomCapacity FROM Classroom
 
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/ec85d5f9-3a08-4689-a08e-725270fe0af1)
 
-
+----------------------------------------
 
 
 
