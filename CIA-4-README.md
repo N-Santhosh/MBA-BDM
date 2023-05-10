@@ -9,15 +9,17 @@ This code is a SQL script that creates several database tables to represent a un
 
 ##PROBLEM STATEMENTS
 
-1) Retrieve the total number of students enrolled in each course.
+**1) Retrieve the total number of students enrolled in each course.**
 
-QUERY:
+**QUERY:**
+
 SELECT CourseName, COUNT(*) as TotalStudents 
 FROM Student 
 JOIN Course ON student.courseID = course.CourseID 
 GROUP BY CourseName;
 
-GRAPH:
+**GRAPH:**
+
 ![image](https://github.com/N-Santhosh/MBA-BDM-CIA/assets/78794083/81821fc5-55ec-497c-97de-8b4cd013306f)
 
 2) The institute wants to analyze the geographic distribution of its students and identify the cities from which the highest number of students come from. 
